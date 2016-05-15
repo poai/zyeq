@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="16"
+    density="mdpi"
+    format="7"
+    timestamp="6911293185962" >
+
+    <task
+        name="javac"
+        duration="82" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="39" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/outputs/apk/navigationDrawer-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="6911293185962" >
+        <artifact
+            location="/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/outputs/apk/navigationDrawer-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

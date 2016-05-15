@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Animation_1</string>
+    <string name="start">启动补间动画</string>
+</resources>

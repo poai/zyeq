@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
+        "source": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/intermediates/res/merged/debug/layout/fragment_planet.xml",
+        "source": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/src/main/res/layout/fragment_planet.xml"
+    }
+]

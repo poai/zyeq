@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/intermediates/res/merged/debug/drawable/earth.jpg",
+        "source": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/src/main/res/drawable/earth.jpg"
+    },
+    {
+        "merged": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/intermediates/res/merged/debug/drawable/mercury.jpg",
+        "source": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/src/main/res/drawable/mercury.jpg"
+    },
+    {
+        "merged": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/intermediates/res/merged/debug/drawable/mars.jpg",
+        "source": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/src/main/res/drawable/mars.jpg"
+    },
+    {
+        "merged": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/intermediates/res/merged/debug/drawable/saturn.jpg",
+        "source": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/src/main/res/drawable/saturn.jpg"
+    },
+    {
+        "merged": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/intermediates/res/merged/debug/drawable/uranus.jpg",
+        "source": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/src/main/res/drawable/uranus.jpg"
+    },
+    {
+        "merged": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/intermediates/res/merged/debug/drawable/neptune.jpg",
+        "source": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/src/main/res/drawable/neptune.jpg"
+    },
+    {
+        "merged": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/intermediates/res/merged/debug/drawable/venus.jpg",
+        "source": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/src/main/res/drawable/venus.jpg"
+    },
+    {
+        "merged": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/build/intermediates/res/merged/debug/drawable/jupiter.jpg",
+        "source": "/home/xiaofen/AndroidStudioProjects/ZYES_2/navigationDrawer/src/main/res/drawable/jupiter.jpg"
+    }
+]
