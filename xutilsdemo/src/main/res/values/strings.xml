@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">XUtilsDemo</string>
+    <string name="fileupload">文件上传</string>
 </resources>
